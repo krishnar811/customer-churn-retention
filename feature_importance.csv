@@ -1,0 +1,13 @@
+feature,importance
+spend_trend_ratio,0.24983772794117207
+txn_trend_ratio,0.2362229268924429
+total_support_calls_last_6m,0.18000636059442474
+avg_txn_count_last_6m,0.11040329277844309
+avg_spend_recent_3m,0.0729089904662948
+total_spend_last_6m,0.06699688601447593
+rewards_redemptions_last_6m,0.05239176109610559
+avg_spend_last_6m,0.01299034488378125
+late_payments_last_6m,0.007523403027315587
+card_type_Green,0.007429653511688542
+card_type_Platinum,0.002341756427711606
+age,0.0009468963661440151
